@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jacob Sides, a passionate JavaScript developer, diving deep into front-end and headless technologies. If I'm not trying out a new JS framework, you'll find me gaming, jamming to music or attempting to pick up a new skill, whether it's the Bass or German. 
+I'm Jacob Sides, a passionate JavaScript developer, diving deep into front-end and headless technologies, staring at interactive 3D sites in the distance. If I'm not trying out a new JS framework, you'll find me gaming, jamming to music or attempting to pick up a new skill, whether it's the Bass or German. 
 
 
 ## My Work
