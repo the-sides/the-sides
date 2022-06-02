@@ -3,7 +3,7 @@ I'm Jacob Sides, a passionate JavaScript developer, diving deep into front-end a
 
 
 ## My Work
-I've been fortunate enough to work with fantastic designers at Pyxl as I build out their visions. 
+I've been fortunate enough to work with fantastic designers at Pyxl to build out their visions. 
 
 [Brownlee](https://brownlee.co) - An Shopify Plus, Next.js Headless Ecommerce
 
