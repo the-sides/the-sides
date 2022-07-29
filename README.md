@@ -13,6 +13,8 @@ I've been fortunate enough to work with fantastic designers at Pyxl to build out
 
 [Talkiatry](https://talkiatry.com) - WordPress site built with TailwindCSS, Twig and Vue.js archives
 
+I have since been very fortunate to start working at DRC as a Software Developer.
+
 
 ### Side Projects
 All my repos here are primarily side projects that focus more concepts, teaching and tech-stacks rather than front-end development. Nonetheless, see how obsessed I am with the Spotify API. 
