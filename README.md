@@ -13,22 +13,22 @@ I've been fortunate enough to work with fantastic designers at Pyxl to build out
 
 [Talkiatry](https://talkiatry.com) - WordPress site built with TailwindCSS, Twig and Vue.js archives
 
-I have since been very fortunate to start working at DRC as a Software Developer.
+I left Pyxl to join the brilliant engineers at DRC as a Software Developer.
+I worked there for 16 months, learning about industrial-grade AWS and Angular before I left to work on my own clients.
 
+
+## Freelance Work via SidesSites
+
+[MergerAI](https://mergerai.co) - Next.js, AWS via SST, RAG-powered AI (PineconeDB and LangChain)
+
+[ReserveNow](https://reservenow.ai) - SvelteKit, Vercel
+ 
+[Hagler](https://haglerllc.com) - SvelteKit, SanityCMS, Netlify
+
+[Empower U Consulting](https://empoweruconsults.com/) - SvelteKit, SanityCMS, Netlify
 
 ### Side Projects
 All my repos here are primarily side projects that focus more concepts, teaching and tech-stacks rather than front-end development. Nonetheless, see how obsessed I am with the Spotify API. 
 <!--
 **the-sides/the-sides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
